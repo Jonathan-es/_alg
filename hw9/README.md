@@ -25,3 +25,5 @@ ATG- ATCCG
 | C | 8 | 7 | 6 | 5 | 5 | 4 | 3 | 2 | 3 | 4 |
 | C | 9 | 8 | 7 | 6 | 6 | 5 | 4 | 3 | 2 | 3 |
 | C | 10 | 9 | 8 | 7 | 7 | 6 | 5 | 4 | 3 | 3 |
+
+AI Chat Link https://gemini.google.com/share/c773454fb610
