@@ -48,6 +48,7 @@ Install dependencies using pip before running the program.
 
 Navigate to the project directory and run:
 
+python blockchain.py
 
 ### Step 2. Observe the Output
 
