@@ -97,8 +97,22 @@ Hash calculation formula:
 
 **Hash = SHA256(Index + Timestamp + JSON(Data) + PreviousHash)**
 
-
 Because `PreviousHash` is included in the hash calculation, any change to a past block changes its hash.  
 This causes all subsequent blocks to become invalid.
 
 This project demonstrates that effect clearly through both text output and visual graphs.
+
+## References & Research
+This project implementation was guided by the following academic research and technical articles:
+
+* **Visualization Logic:**
+  * *Graph Visualization for Blockchain Data* (Cornell University / arXiv)
+  * [https://arxiv.org/abs/2403.03504](https://arxiv.org/abs/2403.03504)
+
+* **Cryptographic Standard:**
+  * *Application of SHA256 Hashing Algorithm in Blockchain-Based Trustless Transaction* (ResearchGate)
+  * [https://www.researchgate.net/publication/328686694](https://www.researchgate.net/publication/328686694_Application_of_SHA256_Hashing_Algorithm_in_Blockchain-Based_Trustless_Transaction)
+
+* **Data Structure Theory:**
+  * *DAG vs Blockchain: Comparing Efficiency and Architecture*
+  * [https://crustlab.com/blog/dag-vs-blockchain/](https://crustlab.com/blog/dag-vs-blockchain/)
