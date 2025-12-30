@@ -20,8 +20,9 @@
 |**習題 9 : 請用 AI 寫出一個最小編輯距離程式，並請 AI 說明之，然後分享 AI 網址**|
 |[HW9](https://github.com/Jonathan-es/_alg/tree/main/hw9)<br>[AIChat](https://gemini.google.com/share/c773454fb610)<br>*Debug using Gemini*|
 |**習題 10 : 寫一個程式可以做 n 維函數的積分 (n 是參數）**|
-|[HW10](https://github.com/Jonathan-es/_alg/blob/main/hw10.py)<br>*made by Copilot*<br>[AI對話](https://gemini.google.com/share/517e07504934)|
+|[HW10](https://github.com/Jonathan-es/_alg/blob/main/hw10.py)<br>*Debug using Gemini*<br>[AI對話](https://gemini.google.com/share/517e07504934)|
 |**習題 11 : 請把計算理論的故事講一遍 （問 AI 回答也可以）**|
 |[AIChat](https://gemini.google.com/share/8b90b4e7c01a)<br>*Debug using Gemini*|
 |**習題 12 : 請用梯度下降法之類的優化算法，驗證 cross_entropy(p, q) 的最低點是 q=p**|
 |[HW12](https://github.com/Jonathan-es/_alg/blob/main/hw12.py)<br>*Debug using Gemini*|
+
