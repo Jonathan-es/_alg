@@ -2,7 +2,7 @@
 
 ## Student Declaration & Attribution
 
-**Project Type:** Hybrid  
+**Project Type:** Blockchain System  
 Original Logic combined with Library Implementation
 
 - **Core Algorithms:** Original implementation of SHA-256 block linking logic.
